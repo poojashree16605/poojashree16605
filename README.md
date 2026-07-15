@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Pooja Shree</h1>
 
 <h3 align="center">
@@ -190,6 +189,6 @@
 If you like my work, feel free to ⭐ my repositories and connect with me.<br>
 Let's turn data into actionable insights together! 🚀
 </p>
-```
+
 
 
